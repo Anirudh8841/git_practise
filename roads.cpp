@@ -1,6 +1,6 @@
 #include <iostream>
 #include <bits/stdc++.h>
-
+#define n 1
 using namespace std;
 
 #define Min(a,b,c) min(a,min(b,c))
